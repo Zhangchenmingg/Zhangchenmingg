@@ -1,16 +1,43 @@
-### Hi there 👋
+# 联系方式
 
-<!--
-**Zhangchenmingg/Zhangchenmingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 手机：15833014030(常用） 13363105525（备用）
+- Email：zcmkkk@126.com
+- QQ号：15833014030
+# 个人信息
 
-Here are some ideas to get you started:
+ - 张辰铭/男/2002.7.14 
+ - 民族：汉
+ - 政治面貌：共青团员
+ - 本科二年级在读/河海大学/信息学部计算机与信息学院/计算机科学与技术专业 
+ - Github：http://github.com/qinggee
+ - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - 期望职位：算法、数据库程序员，系统架构师
+ - 期望薪资：税前月薪30k~50k，特别喜欢的公司可例外
+ - 期望城市：南京
+# 其他
+
+ - 本科排名 29/145
+ - 英语六级：464
+
+# 专业技能
+
+ - 熟练使用C语言编程，有基础的java和python编程能力。
+ - 掌握计算机思维和计算机组成与结构基本原理。
+ - 有基础的JSP开发能力，了解HTML5+CSS3，有一定的前端开发经验。
+ - 熟练使用PPT与论文绘图工具，熟练使用PS、PR、AI等办公工具。
+
+# 项目经历
+
+ - 2022.04-至今 国家级大学生创新创业训练项目 基于GCN-ESN的大规模交通流量预测 担任图卷积算法研究员，对交通路网局部关联图和全局关联图进行建模，设计并训练图卷积神经网络，进行 空间特征提取。
+ - 2022.04-至今 江苏省省级大学生创新创业训练项目 基于生物特性的动物机器接口（ACI）研究 担任负责人，负责统筹管理；动作姿态识别算法设计；反馈控制系统构建；硬件设备维护。
+ - 2021.05-2022.05 河海大学机器人运动与视觉实验室参与IROS小车项目的开发担任算法工程师。
+
+
+#所获荣誉
+ - 2020-2021学年 河海大学学业优秀奖学金
+ - 2021.5 江苏省第十二届大学生知识竞赛（理工科组）优秀奖
+ - 2021.6.1 2021年第七届“LSCAT”杯江苏省笔译大赛英译汉本科组三等奖
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
